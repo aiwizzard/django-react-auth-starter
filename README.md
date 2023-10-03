@@ -1,1 +1,1 @@
-# django-react-auth-starter
+# sngc
